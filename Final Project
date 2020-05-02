@@ -1,0 +1,14 @@
+INTRODUCTION/BUSINESS PROBLEM: 
+Coffee is one of the most favourite drinks of Vietnamese people, and indeed, Vietnam is wellknown for its coffee products also. 
+Opening new coffee shops are common amongst investors in Vietnam nowadays, yet due to the competitiveness of the market, careful consideration must be made.
+Ms. A is looking to open a coffee shop targetting young Vietnamese individuals and tourists visiting Hanoi, Vietnam, and would love to have more insight on where to open her shop.
+The shop's most important objective is to generate large amount of revenue at a minimum costs, that is, the shop will be quite small to lower the rent expense and the investment risk.
+
+DATA:
+In order to come up with the best answer, the following issue needs to be addressed in the dataset:
+1. Where is the popular coffee places searched by young Vietnamese people and tourists coming to Vietnam?
+2. What are the top results for these searches? and how they are similar/different from each other?
+2. Price ranges of coffee shops in these places?
+3. Characteristics of each place, especially details such as size, number of seats, menu information?
+
+From these data, we can find out which areas are most concerned about, and which shops in those areas are the most popular and why.
